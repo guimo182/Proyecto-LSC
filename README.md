@@ -1,0 +1,2 @@
+# Proyecto-LSC
+Traductor lsc
